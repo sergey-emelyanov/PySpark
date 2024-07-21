@@ -1,0 +1,5 @@
+.spark-env
+venv
+__pycache__/
+.idea/
+
